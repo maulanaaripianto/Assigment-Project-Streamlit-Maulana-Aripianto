@@ -34,7 +34,7 @@ Aplikasi ini menampilkan ringkasan KPI, analisis per wilayah & kategori, produk 
 ![Top 5 Produk](src/top5-products.PNG)
 
 ### Prediksi Penjualan
-![Forecast](src/forecast.png)
+![Forecast](src/forecast.PNG)
 
 ---
 
