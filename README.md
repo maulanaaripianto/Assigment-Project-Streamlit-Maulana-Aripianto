@@ -50,3 +50,6 @@ Aplikasi ini menampilkan ringkasan KPI, analisis per wilayah & kategori, produk 
 - pandas>=2.0
 - numpy>=1.24
 - plotly>=5.20
+
+## 💻 Link Streamlit
+-https://3uk4ppf4varwtfgjfuuwqj.streamlit.app/
