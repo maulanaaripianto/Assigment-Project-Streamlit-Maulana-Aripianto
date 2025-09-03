@@ -46,10 +46,10 @@ Aplikasi ini menampilkan ringkasan KPI, analisis per wilayah & kategori, produk 
 - Plotly / Altair (visualisasi)  
 
 ## 📦 Contoh requirements.txt
-- streamlit>=1.36
-- pandas>=2.0
-- numpy>=1.24
-- plotly>=5.20
+- streamlit==1.37.1
+- plotly==5.24.1
+- pandas==2.2.2
+- numpy==1.26.4
 
 ## 💻 Link Streamlit
 -https://3uk4ppf4varwtfgjfuuwqj.streamlit.app/
