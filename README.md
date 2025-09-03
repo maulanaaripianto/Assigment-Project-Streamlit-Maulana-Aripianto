@@ -22,19 +22,19 @@ Aplikasi ini menampilkan ringkasan KPI, analisis per wilayah & kategori, produk 
 ## 🖼️ Cuplikan Layar
 
 ### Overview Dashboard
-![Overview](assets/overview.png)
+![Overview](src/overview.png)
 
 ### Top Produk Terlaris
-![Top Produk](assets/top-products.png)
+![Top Produk](src/top-products.png)
 
 ### Distribusi Kategori
 ![By Category](assets/by-category.png)
 
 ### Top 5 Produk
-![Top 5 Produk](assets/top5-products.png)
+![Top 5 Produk](src/top5-products.png)
 
 ### Prediksi Penjualan
-![Forecast](assets/forecast.png)
+![Forecast](src/forecast.png)
 
 ---
 
