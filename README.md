@@ -44,13 +44,9 @@ Aplikasi ini menampilkan ringkasan KPI, analisis per wilayah & kategori, produk 
 - Streamlit  
 - Pandas, Numpy  
 - Plotly / Altair (visualisasi)  
-- scikit-learn / statsmodels (prediksi sederhana)  
 
 ## 📦 Contoh requirements.txt
 - streamlit>=1.36
 - pandas>=2.0
 - numpy>=1.24
 - plotly>=5.20
-- altair>=5.0
-- scikit-learn>=1.3
-statsmodels>=0.14
