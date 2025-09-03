@@ -28,7 +28,7 @@ Aplikasi ini menampilkan ringkasan KPI, analisis per wilayah & kategori, produk 
 ![Top Produk](src/top-products.PNG)
 
 ### Distribusi Kategori
-![By Category](assets/by-category.PNG)
+![By Category](src/by-category.PNG)
 
 ### Top 5 Produk
 ![Top 5 Produk](src/top5-products.PNG)
